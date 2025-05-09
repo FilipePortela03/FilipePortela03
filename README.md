@@ -1,16 +1,21 @@
-## Hi there 👋
+<h2 align="left">
+ <abc>
+  <br>Olá, tudo bem? <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> Eu me chamo Filipe e sou estudante de Ciência da Computação :computer:<br>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2> 
 
-<!--
-**FilipePortela03/FilipePortela03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">👨🏻‍💻 Sobre mim: </h2>
 
-Here are some ideas to get you started:
+- :computer: Sou uma pessoa nova na área da Ccomputação.
+- :hourglass_flowing_sand: Explorando atualmente, Python.
+- :rocket: Estou sempre interessado em aprender mais.
+- :man_technologist: Estou no primerio semestre de Ciência da Computação.
+- :zap: Um fato aleatório é que amo esportes.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">:heart: Você pode acessar meu linkedin aqui:</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-filipeportela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipe-portela-silva-53944a359/)](https://www.linkedin.com/in/filipe-portela-silva-53944a359/)
+
