@@ -15,7 +15,9 @@
 - :man_technologist: Estou no primerio semestre de Ciência da Computação.
 - :zap: Um fato aleatório é que amo esportes.<br>
 
-<h2 align="left">:heart: Você pode acessar meu linkedin aqui:</h2>
+<h2 align="left">😉 Você pode acessar meu linkedin aqui:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-filipeportela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipe-portela-silva-53944a359/)](https://www.linkedin.com/in/filipe-portela-silva-53944a359/)
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipe-portela-silva-53944a359/)](https://www.linkedin.com/in/filipe-portela-silva-53944a359/)
+
+
 
