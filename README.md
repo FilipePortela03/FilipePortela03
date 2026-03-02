@@ -13,7 +13,7 @@
 - :hourglass_flowing_sand: Explorando atualmente, Python.
 - :rocket: Estou sempre interessado em aprender mais.
 - :man_technologist: Estou no primerio semestre de Ciência da Computação.
-- :zap: Um fato aleatório é que amo esportes.<br>
+
 
 <h2 align="left">😉 Você pode acessar meu linkedin aqui:</h2>
 
