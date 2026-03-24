@@ -10,9 +10,9 @@
 <h2 align="left">👨🏻‍💻 Sobre mim: </h2>
 
 - :computer: Sou uma pessoa nova na área da Ccomputação.
-- :hourglass_flowing_sand: Explorando atualmente, Python.
+- :hourglass_flowing_sand: Explorando atualmente, Python e Java.
 - :rocket: Estou sempre interessado em aprender mais.
-- :man_technologist: Estou no primerio semestre de Ciência da Computação.
+- :man_technologist: Estou no terceiro semestre de Ciência da Computação.
 
 
 <h2 align="left">😉 Você pode acessar meu linkedin aqui:</h2>
