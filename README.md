@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Olá%2C+seja+bem-vindo+ao+meu+perfil!;Foco+em+Cyber+Security+%7C+Blue+Team;Estudante+de+Ciência+da+Computação" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=550&lines=Olá%2C+seja+bem-vindo+ao+meu+perfil!;Protegendo+sistemas+%7C+Blue+Team;Foco+em+Cyber+Security+%26+Defesa;Estudante+de+Ciência+da+Computação" alt="Typing Effect" />
 </p>
 
 # Filipe Portela Silva
